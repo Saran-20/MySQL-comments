@@ -17,7 +17,7 @@ show databases;
 | performance_schema |
 | sys                |
 
-8 rows in set (0.02 sec)
+### 8 rows in set (0.02 sec)
 
 ### MySQL Use Database Statement
 use freshworks;
@@ -31,7 +31,7 @@ Query OK, 0 rows affected, 2 warnings (0.06 sec)
 desc employees;
 
 | Field  | Type        | Null | Key | Default | Extra          |
-|:-----|
+|:-----|:-----|:-----|:----|:----|:----|
 | id     | int         | NO   | PRI | NULL    | auto_increment |
 | name   | varchar(20) | NO   |     | NULL    |                |
 | age    | int         | NO   |     | NULL    |                |
