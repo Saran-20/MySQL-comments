@@ -5,9 +5,9 @@ Query OK, 1 row affected (0.02 sec)
 
 ### MySQL Show Databases Statement
 show databases;
-+--------------------+
+
 | Database           |
-+--------------------+
+|:-----|
 | book               |
 | class              |
 | freshworks         |
@@ -16,7 +16,7 @@ show databases;
 | mysql              |
 | performance_schema |
 | sys                |
-+--------------------+
+
 8 rows in set (0.02 sec)
 
 ### MySQL Use Database Statement
